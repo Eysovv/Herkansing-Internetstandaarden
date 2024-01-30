@@ -45,12 +45,6 @@ p {
     transition-duration: 200ms;
 }
 
-.hover:hover {
-    font-size: larger;
-    cursor: cell;
-    font-family: monospace;
-}
-
 .tekst{
     color: black;
 }
@@ -281,4 +275,8 @@ footer:hover {
     text-shadow: 1px 1px black;
     font-style: italic;
     font-size: smaller;
+}
+
+.aanwijzing:hover{
+    font-family: Arial, Helvetica, sans-serif;
 }
